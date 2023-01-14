@@ -7,4 +7,4 @@
 [Klik Link Youtube](https://youtu.be/nOTsMjsfSio)
 
 ### Hasil Running GUI
-[Gambar](Hasil Running GUI.png)
+[Gambar](SS_GUI.png)
