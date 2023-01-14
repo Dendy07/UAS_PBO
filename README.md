@@ -5,3 +5,6 @@
 
 ## Link Youtube
 [Klik Link Youtube](https://youtu.be/nOTsMjsfSio)
+
+### Hasil Running GUI
+[Gambar](Hasil Running GUI.png)
